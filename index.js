@@ -9,6 +9,8 @@ if(num2===0){
 }
 else{
 console.log(num1/num2);
+//hello
+
 }
 //if----statement
 // if(age >= 18) {
